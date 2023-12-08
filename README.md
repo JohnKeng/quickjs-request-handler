@@ -1,6 +1,6 @@
 # QuickJS Request Handler
 
-這個專案包含了一個用於處理 HTTP 請求的 server.c。根據不同的 URL， JS 會回傳不同的訊息。
+這個專案包含了一個用於處理 HTTP 請求的 server.c， JS 會根據不同的 URL 回傳不同的訊息。
 
 ## 如何使用
 
